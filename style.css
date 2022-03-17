@@ -1,0 +1,23 @@
+.main {
+  background: linear-gradient(180deg,rgba(176, 166, 223, 0.3) 0%, rgba(0, 168, 214, 0.371) 100%);
+              /* url(./public/grass.jpg)  center center fixed;   */
+}
+
+.btn-thick-outline {
+  border: 2px solid;
+}
+
+.font-x {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.font-x-8 {
+  font-size: 60px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.shadow {
+  background: linear-gradient(180deg,rgba(176, 166, 223, 0.8))
+}
